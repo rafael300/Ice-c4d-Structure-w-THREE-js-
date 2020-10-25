@@ -2,7 +2,7 @@
 
 ##Thats a experimental test with THREE-js using express.
 
-I did an c4d structure using a program and put it into the site w/ THREE.js.
+I did a c4d structure using a program and put it into the site w/ THREE.js.
 
 If you want, you can clone the repository. Donwload 3d object from internet and replace it to do your experimental test or just have fun with my structure.
 
